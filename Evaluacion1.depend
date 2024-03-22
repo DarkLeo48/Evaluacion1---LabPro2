@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1710541803 source:c:\users\gerar\desktop\laboratorio - programacion ii\evaluacion1\cliente.cpp
+	"Cliente.h"
+	<iostream>
+
+1710540164 c:\users\gerar\desktop\laboratorio - programacion ii\evaluacion1\cliente.h
+	<string>
+
+1710540592 source:c:\users\gerar\desktop\laboratorio - programacion ii\evaluacion1\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1710540151 c:\users\gerar\desktop\laboratorio - programacion ii\evaluacion1\fecha.h
+
+1710541599 source:c:\users\gerar\desktop\laboratorio - programacion ii\evaluacion1\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Cliente.h"
+	"Fecha.h"
+	"Pago.h"
+	"Prestamo.h"
+
+1710540139 c:\users\gerar\desktop\laboratorio - programacion ii\evaluacion1\pago.h
+	"Fecha.h"
+
+1710541931 c:\users\gerar\desktop\laboratorio - programacion ii\evaluacion1\prestamo.h
+	<string.h>
+	"Cliente.h"
+	"Pago.h"
+
+1710542942 source:c:\users\gerar\desktop\laboratorio - programacion ii\evaluacion1\pago.cpp
+	"Pago.h"
+	<iostream>
+
+1710542954 source:c:\users\gerar\desktop\laboratorio - programacion ii\evaluacion1\prestamo.cpp
+	"Prestamo.h"
+	<iostream>
+
